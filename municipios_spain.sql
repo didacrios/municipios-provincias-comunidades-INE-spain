@@ -1,3 +1,9 @@
+/**
+ * Font http://www.ine.es/daco/daco42/codmun/codmun13/13codmun.xls
+ *
+ * Dades 01/02/2013
+ */
+
 --
 -- Estructura de la taula `municipios`
 --
