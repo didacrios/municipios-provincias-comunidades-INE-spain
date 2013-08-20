@@ -1,7 +1,7 @@
 /**
  * Provincias
  *  2013-02-01
- * Font: http://www.ine.es/daco/daco42/codmun/cod_ccaa.htm
+ * Font: http://www.ine.es/daco/daco42/codmun/cod_provincia.htm
  */
 
 CREATE TABLE IF NOT EXISTS `provincias` (
