@@ -32,7 +32,7 @@ INSERT INTO `provincias` (`provincia_id`, `comunidad_id`, `nom_provincia`) VALUE
 (13, 8, 'Ciudad Real'),
 (14, 1, 'Córdoba'),
 (15, 12, 'Coruña, A'),
-(16, 1, 'Cuenca'),
+(16, 8, 'Cuenca'),
 (17, 9, 'Girona'),
 (18, 1, 'Granada'),
 (19, 1, 'Guadalajara'),
